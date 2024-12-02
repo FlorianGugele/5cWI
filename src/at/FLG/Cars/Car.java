@@ -1,9 +1,9 @@
-package at.FLG.Java.Cars;
+package at.FLG.Cars;
 
 import java.util.Random;
 
-import at.FLG.Java.Cars.exceptions.CarException;
-import at.FLG.Java.Cars.exceptions.EngineException;
+import at.FLG.Cars.exceptions.CarException;
+import at.FLG.Cars.exceptions.EngineException;
 
 public class Car{
     private Engine engine;

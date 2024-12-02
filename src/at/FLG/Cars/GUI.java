@@ -1,7 +1,7 @@
-package at.FLG.Java.Cars;
+package at.FLG.Cars;
 
-import at.FLG.Java.Cars.exceptions.CarException;
-import at.FLG.Java.Cars.exceptions.EngineException;
+import at.FLG.Cars.exceptions.CarException;
+import at.FLG.Cars.exceptions.EngineException;
 
 public class GUI {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package at.FLG.Java.Cars.exceptions;
+package at.FLG.Cars.exceptions;
 
 public class CarException extends Exception{
     public CarException(String message){

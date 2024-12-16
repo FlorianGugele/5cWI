@@ -1,4 +1,4 @@
-package at.FLG.DataGenerator;
+package at.FLG.AlgoDat.DataGenerator;
 
 import java.util.Random;
 

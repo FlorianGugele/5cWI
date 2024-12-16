@@ -1,4 +1,4 @@
-package at.FLG.DataGenerator;
+package at.FLG.AlgoDat.DataGenerator;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
